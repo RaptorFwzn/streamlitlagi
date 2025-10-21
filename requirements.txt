@@ -1,0 +1,5 @@
+streamlit==1.49.1
+pillow
+numpy
+ultralytics==8.2.103
+onnxruntime
